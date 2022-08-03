@@ -7,6 +7,6 @@ git commit . 깃 디렉터리내의 스테이징 된 모든 변경사항을 comm
 git push  remote repository에 origin repository의 변경된 사항들을 push 한다.
 
 
-
+dfdf
 
 다른 내용도 추가합시다
